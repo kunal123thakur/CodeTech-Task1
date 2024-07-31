@@ -53,6 +53,7 @@ You can install the required packages using pip:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
+![Screenshot 2024-07-31 224740](https://github.com/user-attachments/assets/d849e6aa-6ab4-4a4c-92cb-b5db3c02dbda)
 
 ## Usage
 
@@ -90,6 +91,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
    sns.heatmap(correlation, annot=True)
    plt.show()
    ```
+![Screenshot 2024-07-31 224801](https://github.com/user-attachments/assets/b482f405-46e2-41f3-8b20-2747289a6bf8)
 
 3. **Train the Model**
 
@@ -117,6 +119,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
    ```
 
 ## Results
+![Screenshot 2024-07-31 224712](https://github.com/user-attachments/assets/be1cf5c5-cd99-4bf7-b548-9211d906b359)
 
 The model achieved an accuracy of approximately 54.59% on the test set.
 
