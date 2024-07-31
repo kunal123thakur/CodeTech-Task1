@@ -1,7 +1,7 @@
 Certainly! You can include the internship details at the beginning of your `README.md` file to provide context about the project. Here’s how you can structure it:
 
 ```markdown
-# California Housing Dataset Analysis
+# Housing Dataset Analysis
 
 ## Internship Details
 
