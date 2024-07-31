@@ -1,7 +1,16 @@
-Here’s a `README.md` file for your housing dataset project. This file includes sections on the dataset, installation, usage, and additional information to help users understand and use the project effectively.
+Certainly! You can include the internship details at the beginning of your `README.md` file to provide context about the project. Here’s how you can structure it:
 
 ```markdown
 # California Housing Dataset Analysis
+
+## Internship Details
+
+- **Name**: Kunal Thakur
+- **Company**: CODETECH IT SOLUTIONS
+- **ID**: CT4ML5498
+- **Domain**: Machine Learning
+- **Duration**: July 20, 2024 - August 20, 2024
+- **Mentor**: Muzammil Ahmed
 
 ## Overview
 
@@ -126,4 +135,4 @@ This project is licensed under the MIT License.
 - Libraries: pandas, matplotlib, seaborn, scikit-learn
 ```
 
-Feel free to adjust the details according to your specific needs or any additional information you might want to include.
+This `README.md` file now includes your internship details at the top, followed by an overview of the project, dataset description, usage instructions, and other relevant sections.
